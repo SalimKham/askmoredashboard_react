@@ -1,0 +1,15 @@
+[
+    {
+        "icon": "bi bi-person-lines-fill",
+        "content": "Profile"
+    },
+   
+    {
+        "icon": "bi bi-gear",
+        "content": "Settings"
+    },
+    {
+        "icon": "bi bi-box-arrow-right",
+        "content": "Logout"
+    }
+]

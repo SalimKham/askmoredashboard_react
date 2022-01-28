@@ -1,0 +1,34 @@
+[
+    {
+        "display_name": "Dashboard",
+        "route": "/",
+        "icon": "bi bi-bounding-box-circles"
+    },
+    {
+        "display_name": "Users",
+        "route": "/users",
+        "icon": "bi bi-people-fill"
+    },
+    {
+        "display_name": "Groups",
+        "route": "/groupes",
+        "icon": "bi bi-collection-fill"
+    },
+    {
+        "display_name": "Field of Study",
+        "route": "/fields",
+        "icon": "bi bi-book-fill"
+    },
+    {
+        "display_name": "Statistics",
+        "route": "/statistics",
+        "icon": "bi bi-bar-chart-line-fill"
+    },
+    
+   
+    {
+        "display_name": "settings",
+        "route": "/settings",
+        "icon": "bx bx-cog"
+    }
+]

@@ -1,0 +1,22 @@
+[
+    {
+        "icon": "bi bi-file-post",
+        "count": "1995",
+        "title": "Total Tutorials"
+    },
+    {
+        "icon": "bi bi-people",
+        "count": "200",
+        "title": "Daily visits"
+    },
+    {
+        "icon": "bi bi-people",
+        "count": "36323",
+        "title": "Total visits"
+    },
+    {
+        "icon": "bi bi-person",
+        "count": "200000",
+        "title": "Total Users"
+    }
+]
